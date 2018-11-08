@@ -4,6 +4,7 @@
 Laravel Setup: Create and configure .env file (use .env.example) with your database creds. 
 
 php artisan make:auth
+php artisan migrate (create message board table)
 
 php artisan serve
 
